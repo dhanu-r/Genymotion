@@ -1,0 +1,37 @@
+Tools:
+Genymotion , BurpSuite Pro , etc
+------------------------------------------------------------------------------------------------------>
+Mobile-App Pentesting:
+
+https://medium.com/@ehsahil/basic-android-security-testing-lab-part-1-a2b87e667533
+
+https://medium.com/android-tamer/efficient-way-to-pentest-android-chat-applications-46221d8a040f
+------------------------------------------------------------------------------------------------------>
+Latest Version:
+
+https://genymotion.en.softonic.com/download
+------------------------------------------------------------------------------------------------------>
+Genymotion Installation:
+
+https://www.youtube.com/watch?v=XFTpT5gTeH4
+
+https://acadgild.com/blog/install-genymotion-windows
+------------------------------------------------------------------------------------------------------>
+Google play:
+
+https://www.youtube.com/watch?v=dHO94GyaV2k
+
+https://opengapps.org
+------------------------------------------------------------------------------------------------------>
+Proxy Setup:
+
+https://nvisium.com/blog/2014/01/24/android-assessments-with-genymotion-burp.html
+------------------------------------------------------------------------------------------------------>
+GitHub:
+
+https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
+------------------------------------------------------------------------------------------------------>
+
+KeyTerms:
+
+Flagship , ARM , Flashing ,Variant , Rooting, Droid Info , SSL Pinning Bypass, ADM, SDK ,etc
